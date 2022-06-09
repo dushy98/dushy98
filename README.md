@@ -30,4 +30,4 @@
 
 
 
-<p><img align = "right" alt="Coding" width = "350" src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/78d925f388bdfd914f5c84a30261e239.png?compress=1&resize=1200x900&vertical=top"></p>
+<p><img align = "right" alt="Coding" width = "320" src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/78d925f388bdfd914f5c84a30261e239.png?compress=1&resize=1200x900&vertical=top"></p>
