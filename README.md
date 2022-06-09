@@ -1,13 +1,9 @@
 ![MasterHead](https://www.techtarget.com/visuals/ComputerWeekly/Hero%20Images/Robot-AI-books-learning-Adobe.jpg)
 <h1 align="center">Hi 👋, I'm Dushyant Pal</h1>
 <h3 align="center">A passionate Engineer from India</h3>
-<img align = "right" alt="Coding" width = "400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align = "right" alt="Coding" width = "300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushy98&label=Profile%20views&color=0e75b6&style=flat" alt="dushy98" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dushy98" alt="dushy98" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Smart Contracts using Python**
 
