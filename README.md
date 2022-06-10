@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Engineer from India <img width = "25" src="https://www.fg-a.com/flags/animated-india-flag-2b.gif"></h3>
 
 
-<img src="https://komarev.com/ghpvc/?username=dushy98&label=Profile%20views&color=0e75b6&style=flat" alt="dushy98" />
+<img src="https://komarev.com/ghpvc/?username=dushy98&label=Profile%20views&color=0e75b6&style=flat" alt="dushy98" /><img align = "right" alt="Coding" width = "350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 🔭 I’m currently working on **Smart Contracts using Python**
 
 - 🌱 I’m currently learning **DSA, Data Science & Cloud Technologies**
 
-- 📫 Reach me at **dushy9898@gmail.com**  <img align = "centre" alt="Coding" width = "350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+- 📫 Reach me at **dushy9898@gmail.com**  
 
 <h3 align="left">Connect with me:</h3><p align="left"><a href="https://linkedin.com/in/dushy98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dushy98" height="30" width="40" /></a><a href="https://twitter.com/dushy98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dushy98" height="30" width="40" /></a><a href="https://www.leetcode.com/dushy98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dushy98" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/dushy98/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dushy98/profile" height="30" width="40" /></a></p>
 
