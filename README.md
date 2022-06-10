@@ -21,7 +21,7 @@
 
 
 <p>
-<img align = "centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=dushy98&show_icons=true&locale=en&layout=compact" alt="dushy98" />
+<img align = "centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=dushy98&show_icons=true&locale=en&layout=large" alt="dushy98" />
 
 
 <img align = "right" src="https://github-readme-stats.vercel.app/api?username=dushy98&show_icons=true&locale=en&layout=compact" alt="dushy98" />
