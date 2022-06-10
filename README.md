@@ -22,7 +22,7 @@
 
  <p><h3 align="left">Github Statistics:</h3></p>
 <p>
-<---<img align = "centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=dushy98&show_icons=true&locale=en&layout=compact" alt="dushy98" /><img align = "centre" src="https://github-readme-stats.vercel.app/api?username=dushy98&show_icons=true&locale=en&layout=large" alt="dushy98" /> --->
+<---<img align = "centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=dushy98&show_icons=true&locale=en&layout=compact" alt="dushy98" /><img align = "centre" src="https://github-readme-stats.vercel.app/api?username=dushy98&show_icons=true&locale=en&layout=large" alt="dushy98" /> ---/>
 
 
 <img align = "centre" src="https://github-readme-streak-stats.herokuapp.com/?user=dushy98&" alt="dushy98" /><img align = "centre" alt="Coding" width = "320" src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/78d925f388bdfd914f5c84a30261e239.png?compress=1&resize=1200x900&vertical=top">
