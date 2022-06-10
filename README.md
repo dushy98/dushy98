@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Engineer from India <img width = "25" src="https://www.fg-a.com/flags/animated-india-flag-2b.gif"></h3>
 <img align = "right" alt="Coding" width = "350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dushy98&label=Profile%20views&color=0e75b6&style=flat" alt="dushy98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dushy98&label=Profile%20views&color=0e75b6&style=flat" alt="dushy98" /> </p><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 - 🔭 I’m currently working on **Smart Contracts using Python**
 
