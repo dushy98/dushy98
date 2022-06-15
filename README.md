@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=dushy98&label=Profile%20views&color=0e75b6&style=flat" alt="dushy98" /><img align = "right" alt="Coding" width = "350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 🔭 I’m currently working on **Web-Development using Django**
+- 🔭 I’m currently working on my **Full-Stack Python Development Skills**
 
 - 🌱 I’m currently learning **DSA, Data Science & Cloud Technologies**
 
