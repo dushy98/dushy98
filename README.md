@@ -40,5 +40,6 @@
 
 <p></p>
 
-![AWS-Certified-Cloud-Practitioner_badge 634f8a21af2e0e956ed8905a72366146ba22b74c](https://user-images.githubusercontent.com/22196321/176691961-fa25d1d3-cce4-4c85-be9f-08b64eb29d01.png)
+![image](https://user-images.githubusercontent.com/22196321/176692766-7d84c4b4-b7fc-4900-99db-15c333f40309.png)
+
 
