@@ -42,5 +42,6 @@
 
 
 
-![image](https://user-images.githubusercontent.com/22196321/176693026-0e12f73a-815f-45be-90fb-91889354d9db.png)
 
+
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/22196321/176693328-74c6d597-f903-44dc-8690-2682628e7367.png)
