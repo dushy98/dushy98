@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on my **Full-Stack Python Development Skills**
 
 - 🌱 I’m currently learning **DSA, Data Science & Cloud Technologies**
+  
+-  <a href="https://www.instagram.com/dushy.98/" target="3D Printing/Prototyping"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="https://www.instagram.com/dushy.98/" height="35" width="35" /></a> 
 
 - 📫 Reach me **@** **dushy9898@gmail.com**  
 
