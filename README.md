@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Data Science & Cloud Technologies**
   
--  <a href="https://www.instagram.com/dushy.98/" target="3D Printing/Prototyping"> alt="https://www.instagram.com/dushy.98/" height="35" width="35" /></a> 
+-  <a href="https://www.instagram.com/dushy.98/"  /></a> 
 
 - 📫 Reach me **@** **dushy9898@gmail.com**  
 
