@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Data Science & Cloud Technologies**
   
--  Also learning <a href="https://en.wikipedia.org/wiki/3D_printing" target="blank"> <img align="center" src="https://as1.ftcdn.net/v2/jpg/05/61/32/76/1000_F_561327645_UCOEUe9RcGBT4OUbV3HV94HRLlaIwxxb.jpg" alt="https://as1.ftcdn.net/v2/jpg/05/61/32/76/1000_F_561327645_UCOEUe9RcGBT4OUbV3HV94HRLlaIwxxb.jpg" height="30" width="30" /> </a> & Digital Marketing
+-  Also learning <a href="https://en.wikipedia.org/wiki/3D_printing" target="blank"> <img align="center" src="https://as1.ftcdn.net/v2/jpg/05/61/32/76/1000_F_561327645_UCOEUe9RcGBT4OUbV3HV94HRLlaIwxxb.jpg" alt="https://as1.ftcdn.net/v2/jpg/05/61/32/76/1000_F_561327645_UCOEUe9RcGBT4OUbV3HV94HRLlaIwxxb.jpg" height="50" width="50" /> </a> & Digital Marketing
 
 - 📫 Reach me **@** **dushy9898@gmail.com**  
 
