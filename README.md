@@ -2,14 +2,15 @@
 <h1 align="center">Hi 👋, I'm Dushyant Pal</h1>
 <h3 align="center">A passionate Engineer from India <img width = "25" src="https://www.fg-a.com/flags/animated-india-flag-2b.gif"></h3>
 
-<img src="https://komarev.com/ghpvc/?username=dushy98&label=Profile%20views&color=0e75b6&style=flat" alt="dushy98" /><img align = "right" alt="Coding" width = "350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img src="https://komarev.com/ghpvc/?username=dushy98&label=Profile%20views&color=0e75b6&style=flat" alt="dushy98" />
+<img align = "right" alt="Coding" width = "350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="dushy98" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dushy98?trk=profile-badge">Dushyant Pal</a></div>
               
 - 🔭 I’m currently working on my **Full-Stack Python Development Skills**
 
 - 🌱 I’m currently learning **DSA, Data Science & Cloud Technologies**
   
--  Also learning <a href="https://en.wikipedia.org/wiki/3D_printing" target="blank"> <img align="center" src="https://as1.ftcdn.net/v2/jpg/03/88/46/06/1000_F_388460614_frOAJXmaiDaI5qzuEYDjIwcqlTMVFnDk.jpg" alt="https://as1.ftcdn.net/v2/jpg/03/88/46/06/1000_F_388460614_frOAJXmaiDaI5qzuEYDjIwcqlTMVFnDk.jpg" height="100" width="100" /> </a>
+-  Also learning <a href="https://en.wikipedia.org/wiki/3D_printing" target="blank"> <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M0NHBnZjF3cnl1dmFoeXRmMXFjMGprbWJmbHJ3MG0xdGRzMTNiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vCimx9PwCWjejur1qB/giphy.gif" alt="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M0NHBnZjF3cnl1dmFoeXRmMXFjMGprbWJmbHJ3MG0xdGRzMTNiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vCimx9PwCWjejur1qB/giphy.gif" height="100" width="100" /> </a>
 
 - 📫 Reach me **@** **dushy9898@gmail.com**  
 
