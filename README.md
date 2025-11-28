@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA, Data Science & Cloud Technologies**
   
--  Also learning <a href="https://en.wikipedia.org/wiki/3D_printing"  /> 3D Printing/Prototyping </a> 
+-  Also learning <a href="https://en.wikipedia.org/wiki/3D_printing"  /> 3D Printing [ Prototyping ]</a> 
 
 - 📫 Reach me **@** **dushy9898@gmail.com**  
 
