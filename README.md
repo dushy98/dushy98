@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA, Data Science & Cloud Technologies**
   
--  Also learning 3D Printing <a href="https://en.wikipedia.org/wiki/3D_printing" target="3D Printing"> <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/0*yt_LuVxQwEKZ11k-.gif" alt="https://miro.medium.com/v2/resize:fit:1400/0*yt_LuVxQwEKZ11k-.gif" height="75" width="150" /> </a>   & Insta Marketing
+-  Also learning <a href="https://en.wikipedia.org/wiki/3D_printing" target="3D Printing"> 3D Printing <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/0*yt_LuVxQwEKZ11k-.gif" alt="https://miro.medium.com/v2/resize:fit:1400/0*yt_LuVxQwEKZ11k-.gif" height="75" width="150" /> </a>   & Insta Marketing
 
 - 📫 Reach me **@** **dushy9898@gmail.com**  
 
