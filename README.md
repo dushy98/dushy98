@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **DSA, Data Science & Cloud Technologies**
   
 -  Also learning <a class="badge-base__link LI-simple-link" href="https://en.wikipedia.org/wiki/3D_printing">3D Printing </a>
-                 <a href="https://en.wikipedia.org/wiki/3D_printing" target="3D Printing"> <img align="center" src="https://ilearnengineering.com/wp-content/uploads/2025/05/AD_4nXcGSmEjSzwzpaQAaqcvXYYHIvNpv4skyyJ_YDAXd9uamJausBcCHlSzX5L5_F4RYc_wZzWnwbdXOkGtZcyW_WizBimPvECRUhI6j0ZC-5vaTfUt6CxrEllLgkNBCQf6ZSpuXhk3GQkeyHouWRmW2OgP39WdM5_o67Q.gif" alt="https://ilearnengineering.com/wp-content/uploads/2025/05/AD_4nXcGSmEjSzwzpaQAaqcvXYYHIvNpv4skyyJ_YDAXd9uamJausBcCHlSzX5L5_F4RYc_wZzWnwbdXOkGtZcyW_WizBimPvECRUhI6j0ZC-5vaTfUt6CxrEllLgkNBCQf6ZSpuXhk3GQkeyHouWRmW2OgP39WdM5_o67Q.gif" width="140" /> </a>   & Insta Marketing
+                 <a href="https://en.wikipedia.org/wiki/3D_printing" target="3D Printing"> <img align="center" src="https://ilearnengineering.com/wp-content/uploads/2025/05/AD_4nXcGSmEjSzwzpaQAaqcvXYYHIvNpv4skyyJ_YDAXd9uamJausBcCHlSzX5L5_F4RYc_wZzWnwbdXOkGtZcyW_WizBimPvECRUhI6j0ZC-5vaTfUt6CxrEllLgkNBCQf6ZSpuXhk3GQkeyHouWRmW2OgP39WdM5_o67Q.gif" alt="https://ilearnengineering.com/wp-content/uploads/2025/05/AD_4nXcGSmEjSzwzpaQAaqcvXYYHIvNpv4skyyJ_YDAXd9uamJausBcCHlSzX5L5_F4RYc_wZzWnwbdXOkGtZcyW_WizBimPvECRUhI6j0ZC-5vaTfUt6CxrEllLgkNBCQf6ZSpuXhk3GQkeyHouWRmW2OgP39WdM5_o67Q.gif" width="140" /> </a>   & Instagram Marketing
 
 - 📫 Reach me **@** **dushy9898@gmail.com**  
 
