@@ -56,5 +56,6 @@
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/22196321/176693328-74c6d597-f903-44dc-8690-2682628e7367.png)
 
 <div>
-<img src = https://img-c.udemycdn.com/open-badges/v2/badge-class/1641170563/image8965422010918071331.png>    In Progress
+   In Progress
+<img src = https://img-c.udemycdn.com/open-badges/v2/badge-class/1641170563/image8965422010918071331.png>   
 </div>
