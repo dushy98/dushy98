@@ -49,7 +49,7 @@
 
 <p></p>
 <h1>
-  Things in Progress <img src = "https://media.tenor.com/guhB4PpjrmUAAAAM/loading-loading-gif.gif" > 
+  Things in Progress <img width = "20" src = "https://media.tenor.com/guhB4PpjrmUAAAAM/loading-loading-gif.gif" > 
 </h1>
 
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/22196321/176693328-74c6d597-f903-44dc-8690-2682628e7367.png) 
