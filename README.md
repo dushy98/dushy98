@@ -48,10 +48,9 @@
 <img src = "https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><img src = "https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"><img src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"><img src = "https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"><img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><img src = "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 
 <p></p>
-
-
-
-
+<h2>
+  Things in Progress
+</h2>
 
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/22196321/176693328-74c6d597-f903-44dc-8690-2682628e7367.png) 
 <img src = https://i.pinimg.com/originals/93/a4/80/93a4800724ba47cb570e957bba6f9301.gif >
