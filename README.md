@@ -55,4 +55,5 @@
 
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/22196321/176693328-74c6d597-f903-44dc-8690-2682628e7367.png)
 
-<img src = https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/saa-badge-resized.f45e8388037c5f96161da5a18ca34a91b05a253d.png>
+<img src = https://img-c.udemycdn.com/open-badges/v2/badge-class/1641170563/image8965422010918071331.png>
+ 
