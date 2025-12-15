@@ -54,7 +54,7 @@
 
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/22196321/176693328-74c6d597-f903-44dc-8690-2682628e7367.png) 
  < img width = "60" src = https://i.pinimg.com/originals/93/a4/80/93a4800724ba47cb570e957bba6f9301.gif >
+   [aws-certified-cloud-Solutions_Architect](https://img-c.udemycdn.com/open-badges/v2/badge-class/1641170563/image8965422010918071331.png) 
 
-<img src = https://img-c.udemycdn.com/open-badges/v2/badge-class/1641170563/image8965422010918071331.png width = "100">
    
 
